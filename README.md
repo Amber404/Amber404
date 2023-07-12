@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Amber
-- 👀 I’m interested in  ...definitely not you :)
-- 🌱 I’m currently learning something.
-- 💞️ I’m looking to collaborate on interesting stuffs.
-- 📫 How to reach me ....dont need to.
+- 👋 Hi, I’m Amber Singh
+- 🌱 I’m currently persuing chemical Engineering in IIT Kanpur
+-  👀 I’m interested in web develeopment and solving colding problems
+- 📫 You can reach me on : ambers21@iitk.ac.in
 
 <!---
 Amber404/Amber404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
