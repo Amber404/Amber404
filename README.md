@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amber Singh
-- 🌱 I’m currently persuing chemical Engineering in IIT Kanpur
+- 🌱 I’m currently pursuing chemical Engineering in IIT Kanpur
 -  👀 I’m interested in web develeopment and solving colding problems
 - 📫 You can reach me on : ambers21@iitk.ac.in
 
